@@ -9,7 +9,7 @@ load_dotenv()
 
 W, H = 1080, 1920
 END_CARD_S = 4
-TEAM_ID = os.getenv("TEAM_ID", "T00")
+TEAM_ID = os.getenv("TEAM_ID", "T13")
 DISCLOSURE = "Created with AI agents — LY Agentic AI Lab"
 
 
