@@ -1,5 +1,13 @@
 # AgentReel: Multi-Agent AI Video Pipeline (Team T13)
 
+**Demo video (generated end to end by the agents):**
+
+
+
+https://github.com/user-attachments/assets/5da20e43-faa8-4d7a-9164-f47459870cc4
+
+
+
 Autonomous multi-agent pipeline that turns a brief (`brief.yaml`) into a 30-60 s promotional video for K J Somaiya School of Engineering. Built for the LY Agentic AI Laboratory evaluation.
 
 **Team:** Fahad Memon, Shifan Badgujar | **Faculty in-charge:** Dr Pankaj Mishra
