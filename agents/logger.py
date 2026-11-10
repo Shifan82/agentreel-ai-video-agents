@@ -10,7 +10,7 @@ RUN_LOG = LOG_DIR / "run_log.jsonl"
 COST_CSV = LOG_DIR / "cost_report.csv"
 INTERVENTIONS = LOG_DIR / "interventions.md"
 
-_run_id = "T00-B06-01"
+_run_id = "T13-B06-01"
 
 
 def set_run_id(run_id: str):
