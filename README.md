@@ -1,4 +1,4 @@
-# Somaiya AgentReel - Team T13
+# AgentReel: Multi-Agent AI Video Pipeline (Team T13)
 
 Autonomous multi-agent pipeline that turns a brief (`brief.yaml`) into a 30-60 s promotional video for K J Somaiya School of Engineering. Built for the LY Agentic AI Laboratory evaluation.
 
